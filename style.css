@@ -105,8 +105,3 @@ h6 a{
     text-decoration: none;
     color: #7d849e;
 }
-@media  screen and (max-width:600px) {
-    .card{
-        margin-top: 50px;
-    }
-}
